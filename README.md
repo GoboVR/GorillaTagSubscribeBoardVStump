@@ -1,3 +1,9 @@
+Just https://github.com/GoboVR/GorillaTagSubscribeBoard but on meta go there for info
+This is a vstump map
+Download:
+Note for custom dm on discord: gobo.vr (you will get a custom mod.io link)
+Below is original readme
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # GT_CustomMapExample
